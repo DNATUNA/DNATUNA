@@ -1,8 +1,9 @@
 ## Hey! Nice to see you.
 I'm GeonHun Kim, **Back-End developlor**, from South Korea🇰🇷 <br>
-This is my resume in Korean. --> [📜 here!!](https://www.notion.so/dnatuna/Back-End-Engineer-8b38348d3eb34ceea9c453974f5987dd) <br>
 ✏️ Currently learning Spring, Java. <br>
-I really like Node.js and JavaScript, TypeScript, too.
+I really like Node.js and JavaScript, TypeScript, too. <br>
+
+<br>This is my resume in Korean. --> [📜 here!!](https://www.notion.so/dnatuna/Back-End-Engineer-8b38348d3eb34ceea9c453974f5987dd) <br>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DNATUNA&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
