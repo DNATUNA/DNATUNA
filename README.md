@@ -15,6 +15,6 @@ I really like Node.js and JavaScript, TypeScript, too. <br>
 <br>
 <div align=center>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuYeong0413%2Fhit-counter&count_bg=%23E85A71&title_bg=%23A5D296&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDNATUNA%2Fhit-counter&count_bg=%23FF8A00&title_bg=%23982828&icon=&icon_color=%23232020&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
