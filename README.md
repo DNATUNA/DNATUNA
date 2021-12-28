@@ -5,8 +5,6 @@ I really like Node.js and JavaScript, TypeScript, too. <br>
 
 <br>This is my resume in Korean. --> [📜 here!!](https://www.notion.so/dnatuna/Back-End-Engineer-8b38348d3eb34ceea9c453974f5987dd) <br>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=DNATUNA&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_tuna__hun/?hl=ko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dnatuna123@gmail.com)
